@@ -169,17 +169,6 @@ To bypass the login screen, use the pre-seeded admin login details:
 | **POST** | `/dashboard` | Processes task completion state updates. |
 | **GET** | `/logout` | Revokes the current session and redirects to the login panel. |
 
----
-
-## 📸 Screenshots
-
-Here are placeholders for application visual demonstrations:
-
-#### 1. Administrative Login Portal
-> *[Placeholder: Add your login portal screenshot here]*
-
-#### 2. Task Management Dashboard Panel
-> *[Placeholder: Add your dashboard screenshot here]*
 
 ---
 
@@ -193,4 +182,4 @@ If you wish to extend the scope of this project, consider adding:
 
 ---
 
-Created By Kritika Jha
+Created By Kritika Niranjan Dangi
